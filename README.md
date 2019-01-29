@@ -13,3 +13,4 @@ SD교육그룹 웹 프로젝트
 사용자 메인 </br>
 ![3](https://user-images.githubusercontent.com/40552943/51898512-63828000-23f4-11e9-8f72-2a7ec9e97264.png)</br>
 DB설계 ERD</br>
+![db](https://user-images.githubusercontent.com/40552943/51899058-95e0ad00-23f5-11e9-81e1-cd15c7009f12.PNG)
