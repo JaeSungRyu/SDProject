@@ -8,3 +8,8 @@ SD교육그룹 웹 프로젝트
 ●DB액션 처리: JDBC</br>
 ●웹 화면 구성: HTML, CSS, BootStrap, JavaScript</br>
 ●개발 Tool : Eclipse, Apache Tomcat v9.0, Oracle 11g</br>
+관리자 동영상 </br>
+![2](https://user-images.githubusercontent.com/40552943/51898294-f2db6380-23f3-11e9-9fae-256a397aeb09.png)
+사용자 메인 </br>
+![3](https://user-images.githubusercontent.com/40552943/51898512-63828000-23f4-11e9-8f72-2a7ec9e97264.png)
+DB설계 ERD
